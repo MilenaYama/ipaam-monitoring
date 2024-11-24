@@ -26,8 +26,6 @@ const Filtro: React.FC<FiltroProps> = ({ onFiltroChange }) => {
             value={ano}
             onChange={(e) => setAno(e.target.value)}
           />
-        </Stack>
-        <Stack direction={{ xs: 'column', md: 'row' }} spacing={2}>
           <TextField
             label="Nome da Empresa"
             variant="outlined"
@@ -35,8 +33,6 @@ const Filtro: React.FC<FiltroProps> = ({ onFiltroChange }) => {
             value={empresa}
             onChange={(e) => setEmpresa(e.target.value)}
           />
-        </Stack>
-        <Stack direction={{ xs: 'column', md: 'row' }} spacing={2}>
           <TextField
             label="Espécie"
             variant="outlined"
@@ -45,10 +41,10 @@ const Filtro: React.FC<FiltroProps> = ({ onFiltroChange }) => {
             onChange={(e) => setEspecie(e.target.value)}
           />
         </Stack>
-      </Stack>
       <Button onClick={handleFilter} variant="contained" color="primary" sx={{ marginTop: 2 }}>
         Filtrar
       </Button>
+      </Stack>
     </Box>
   );
 };

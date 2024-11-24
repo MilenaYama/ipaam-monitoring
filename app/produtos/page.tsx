@@ -91,6 +91,18 @@ const Home = () => {
       </br>
       <br>
       </br>
+      <Box
+        component="img"
+        src="/mapa.png"
+        alt="Imagem Representativa"
+        sx={{
+          width: '100%',
+          height: 'auto',
+          maxWidth: '800px',
+          marginTop: 2,
+          marginBottom: 2,
+        }}
+      />
       <Filtro onFiltroChange={handleFiltroChange} />
       <Box display="flex" gap={2} marginBottom={2} marginTop={2}>
         <Button
