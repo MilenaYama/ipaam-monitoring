@@ -1,7 +1,7 @@
 # IPAAM Monitoring App 🌳
 
-**Team Swisi**  
-**Hackathon:** AmazôniaHack 2024  
+**Team Swisi**: Renata Maçãs, Milena Walter e Gabriel Pisa  
+**Hackathon:**  [AmazôniaHack 2024](https://amazoniahack.co/)     
 
 ## 🛠 Project Overview  
 IPAAM Monitoring is a web-based application designed to support the **Instituto de Proteção Ambiental do Amazonas (IPAAM)** in monitoring licensed logging activities in the Amazon rainforest. This tool uses open data from **Sinaflor** and **DOF**, combined with satellite imagery, to enhance oversight and promote sustainable practices.  
