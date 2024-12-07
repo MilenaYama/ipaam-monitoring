@@ -1,6 +1,6 @@
 # IPAAM Monitoring App 🌳
 
-**Team Swisi**: Renata Maçãs, Milena Walter e Gabriel Pisa  
+**Team Swisi**: Renata Maçãs, Milena Yamauchi Walter e Gabriel Pisa  
 **Hackathon:**  [AmazôniaHack 2024](https://amazoniahack.co/)     
 
 ## 🛠 Project Overview  
